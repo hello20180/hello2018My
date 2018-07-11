@@ -9,7 +9,8 @@
 六月 25, 2018 8:40:03 上午 org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
 严重: The web application [/HotPower] appears to have started a thread named [QuartzScheduler_Worker-1] but has failed to stop it. This is very likely to create a memory leak.
 六月 25, 2018 8:40:03 上午 org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
-严重: The web application [/HotPower] appears to have started a thread named [QuartzScheduler_Worker-2] but has failed to stop it. This is very likely to create a memory leak.
+严重: The web application [/HotPower] appears to have startdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ded a thread named [QuartzScheduler_Worker-2] but has failed to stop it. This is very likely to create a memory leak.
 六月 25, 2018 8:40:03 上午 org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
 严重: The web application [/HotPower] appears to have started a thread named [QuartzScheduler_Worker-3] but has failed to stop it. This is very likely to create a memory leak.
 六月 25, 2018 8:40:03 上午 org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
